@@ -10,3 +10,6 @@ function superMom() {
   }
 }
 ```
+- [x] Wake up
+- [x] Look pretty
+- [ ] Cry
